@@ -1,12 +1,51 @@
 JR pen tester 
 Mohamed abdelbasit 
-intro to cyber / intro to pen testing + protocols from network security 
+intro to cyber / intro to pen testing + metaspliot 1/2
 sohila 
 intro to web hacking + network security CTF 
 Abdelrahman 
-burb suite + Nmap 3 , 4 
+burb suite 
 Mohamed ayman 
-metaspliot 1/2 and vuln research + Nmap 1 , 2
+metaspliot 1/2 and vuln research 
 Habiba 
-metaspliot 1/2 and privilege Escalation + Reconnaissance 
+  privilege Escalation + Reconnaissance 
+catherin 
+Nmap 1 , 2 
+Nmap 3 , 4 
+protocols from network security 
 ----------------------------------------------------------------
+web pen testing 
+habiba
+Enum & brute force 
+Advanced sql injection 
+Include 
+XSS
+Sohaila 
+Session management 
+Nosql injection 
+Insecure deserialisation 
+What’s your name
+Abdelrahmn 
+JWT security 
+Injectics 
+SSRF 
+CSRF 
+HTTP request smuggling
+Mohamed abdelbasiat 
+Request smuggling : web sockets 
+Dom based attacks 
+File inclusion path traversal 
+XXE injection 
+OAuth vulnerabilities
+Mohamed Ayman 
+Hammer 
+Server side template injection 
+Race conditions 
+CORS and SOP 
+HTTP 2 request smuggling
+Catherin 
+HTTP browser 
+Prototype pollution 
+LDAP injection 
+ORM injection 
+Multi- factor authentication
