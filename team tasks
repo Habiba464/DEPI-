@@ -44,6 +44,32 @@ Race conditions
 CORS and SOP 
 HTTP 2 request smuggling
 Catherin 
+-------------------------------------------------------------------------------------------------
+OWASP JUICE SHOP 
+habiba : 
+Dom XSS 
+Login admin 
+Login bender 
+Login Jim 
+Find the hidden score board
+Reset Jim password 
+Reset bender password without sqli or forget password
+CSRF 
+User Credentials
+Christmas Special
+Sohila : 
+View basket
+Pass strength
+Log admin
+Admin section 
+Five star
+Error handling 
+Manipulate basket 
+Gdpr
+Forged feedback
+Forged review 
+Database schema
+
 HTTP browser 
 Prototype pollution 
 LDAP injection 
