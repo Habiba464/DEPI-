@@ -44,6 +44,11 @@ Race conditions
 CORS and SOP 
 HTTP 2 request smuggling
 Catherin 
+HTTP browser 
+Prototype pollution 
+LDAP injection 
+ORM injection 
+Multi- factor authentication
 -------------------------------------------------------------------------------------------------
 OWASP JUICE SHOP 
 habiba : 
@@ -70,8 +75,4 @@ Forged feedback
 Forged review 
 Database schema
 
-HTTP browser 
-Prototype pollution 
-LDAP injection 
-ORM injection 
-Multi- factor authentication
+
