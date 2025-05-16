@@ -52,50 +52,68 @@ Multi- factor authentication
 -------------------------------------------------------------------------------------------------
 OWASP JUICE SHOP 
 habiba : 
-Dom XSS 
-Login admin 
-Login bender 
-Login Jim 
-Find the hidden score board
-Reset Jim password 
-Reset bender password without sqli or forget password
-CSRF 
-User Credentials
-Christmas Special
+Dom XSS  star 
+Login admin   2-star 
+Login bender    3-star
+Login Jim        3-star
+Find the hidden score board    star 
+Reset Jim password              3-star 
+Reset bender password without sqli or forget password   5-star
+CSRF                  3-star 
+User Credentials     4-star 
+Christmas Special    4-star 
 Sohila : 
-View basket
-Pass strength
-Log admin
-Admin section 
-Five star
-Error handling 
-Manipulate basket 
-Gdpr
-Forged feedback
-Forged review 
-Database schema
+Broken access control:
+Admin section 2
+Five star feedback 2
+View basket 2
+Forged review 3
+Manipulate basket 3
+Forged feedback 3
+Broken authentication:
+Password strength 2
+Login admin 2
+Gdpr data erasure 3
+Injection:
+Database schema 3
+Security Misconfiguration:
+Error handling 1
 mohamed ayman :
-1- data exposure ( confidential document)
-2- forgotten developer backup
-3- email leak 
-4- deluxe fraud 
-5- repetitive registration 
-6- Easter egg
-7-  Empty user registration 
-8- bjoern's favourite pet
-9- SSRF vulnerability 
-10-  GDPR Data theft 
-11- deprecated interface 
-12- security policy miscellaneous 
-13- meta Geo stalking
+- data exposure ( confidential document) 1 star 
+
+2- forgotten developer backup 4 stars 
+
+3- email leak 5 stars
+
+4- deluxe fraud 3 stars
+
+5- repetitive registration 1 star
+
+6- Easter egg 4 stars
+
+7-  Empty user registration 2 stars
+
+8- bjoern's favourite pet 3 stars
+
+9- SSRF vulnerability 6 stars
+
+10-  GDPR Data theft 4 stars
+
+11- deprecated interface 2 stars
+
+12- security policy miscellaneous 2 stars 
+
+13- meta Geo stalking 2 stars
 Mohamed AbdelBasit : 
-1.login MC safesearch 
-2.Upload file                
-3.upload type              
-4.pay Back time          
-5.CAPTCHA Bypass.  
-6.Admin registration.  
-7.Access log               
-8.Poison Null Byte      
-9.Allowlist Bypass      
+1.login MC safesearch 2.stars 
+2.Upload file                 3.stars
+3.upload type               3.stars
+4.pay Back time           3.stars
+5.CAPTCHA Bypass.   3.stars
+6.Admin registration.  3.stars
+7.Access log                4 Stars
+8.Poison Null Byte      4 Stars
+9.Allowlist Bypass      4 stars
+10.Forgotten Developer Backup 4 stars
+11.Supply Chain         5-stars    
 total : 44 
